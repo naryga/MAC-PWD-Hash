@@ -1,0 +1,17 @@
+# MAC PWD Hash
+
+A simple app to create/retrieve PWD Hash passwords.  As you can see... It's not here yet!
+
+## Todo List ("Road Map"):
+
+### V 1.0
+
+* @todo Accept Master password and "Key" (url, etc.)
+* @todo hash these values to produce the hashed password
+* @todo return hashed password to the screen
+* @todo "Copy" button
+
+### V 1.1
+
+* @todo Provide a Quick Entry method
+* @todo Both QE and Full mode auto add pwd to system clipboard
